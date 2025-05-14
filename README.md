@@ -14,6 +14,8 @@ A starting point for Neovim that is:
 
 ### Install Neovim
 
+https://github.com/neovim/neovim/blob/master/INSTALL.md
+
 Kickstart.nvim targets *only* the latest
 ['stable'](https://github.com/neovim/neovim/releases/tag/stable) and latest
 ['nightly'](https://github.com/neovim/neovim/releases/tag/nightly) of Neovim.
